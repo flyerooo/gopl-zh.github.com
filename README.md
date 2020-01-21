@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gopl-zh/gopl-zh.github.com) 
+
 # Go语言圣经（中文版）
 
 Go语言圣经 [《The Go Programming Language》](http://gopl.io) 中文版本，仅供学习交流之用。对于希望学习CGO、Go汇编语言等高级用法的同学，我们推荐[《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)开源图书。
